@@ -5,6 +5,9 @@ db/app.db
 .env
 .env.test
 
+### build ###
+build
+
 ### macOS ###
 # General
 .DS_Store
@@ -123,26 +126,6 @@ web_modules/
 .cache
 .parcel-cache
 
-# Next.js build output
-.next
-out
-
-# Nuxt.js build / generate output
-.nuxt
-dist
-
-# Gatsby files
-.cache/
-# Comment in the public line in if your project uses Gatsby and not Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
-# public
-
-# vuepress build output
-.vuepress/dist
-
-# vuepress v2.x temp and cache directory
-.temp
-
 # Docusaurus cache and generated files
 .docusaurus
 
@@ -172,11 +155,6 @@ dist
 # Serverless Webpack directories
 .webpack/
 
-# Optional stylelint cache
-
-# SvelteKit build / generate output
-.svelte-kit
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -195,5 +173,3 @@ dist
 # Ignore all local history of files
 .history
 .ionide
-
-# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,macos,dotenv
