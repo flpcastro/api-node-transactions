@@ -13,7 +13,8 @@
     "@types/node": "^20.2.4",
     "eslint": "^8.41.0",
     "tsx": "^3.12.7",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "vitest": "^0.31.1"
   },
   "dependencies": {
     "@fastify/cookie": "^8.3.0",
