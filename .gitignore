@@ -3,6 +3,7 @@ db/app.db
 
 ### dotenv ###
 .env
+.env.test
 
 ### macOS ###
 # General
