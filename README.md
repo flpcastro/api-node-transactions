@@ -52,6 +52,12 @@ Instale as dependências
   yarn
 ```
 
+Rode as migrations
+
+```bash
+  yarn knex migrate:latest
+```
+
 Inicie o servidor
 
 ```bash
